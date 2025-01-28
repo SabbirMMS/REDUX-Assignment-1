@@ -1,0 +1,111 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "title": "Introduction to JavaScript",
+      "duration": "0:30:00",
+      "views": 102090,
+      "likes": 13592,
+      "dislikes": 9,
+      "author": "As Sunnah Skill Development",
+      "description": "This is an introduction to JavaScript for beginners.",
+      "date": "Jan 18, 2022",
+      "thumbnail": "https://img.youtube.com/vi/MDCp_rjGCrQ/0.jpg",
+      "tags": [
+        "javascript"
+      ],
+      "link": "https://www.youtube.com/embed/MDCp_rjGCrQ"
+    },
+    {
+        "id": "2",
+        "title": "Figma To CSS",
+        "duration": "0:30:00",
+        "views": 1000,
+        "likes": 958,
+        "dislikes": 99,
+        "author": "As Sunnah Skill Development",
+        "description": "This is an introduction to CSS for beginners.",
+        "date": "Jan 18, 2024",
+        "thumbnail": "https://img.youtube.com/vi/mmyueYzz8eY/0.jpg",
+        "tags": [
+          "CSS", "Figma"
+        ],
+        "link": "https://www.youtube.com/embed/mmyueYzz8eY"
+    },
+    {
+        "id": "3",
+        "title": "JavaScript Operators",
+        "duration": "0:30:00",
+        "views": 1000,
+        "likes": 465,
+        "dislikes": 125,
+        "author": "As Sunnah Skill Development",
+        "description": "This is an introduction to JavaScript for beginners.",
+        "date": "Jan 18, 2022",
+        "thumbnail": "https://img.youtube.com/vi/6YmWW05dZLM/0.jpg",
+        "tags": [
+          "JavaScript"
+        ],
+        "link": "https://www.youtube.com/embed/6YmWW05dZLM"
+    },
+    {
+        "id": "4",
+        "title": "Introduction to Git & GitHub",
+        "duration": "0:30:00",
+        "views": 1000,
+        "likes": 128,
+        "dislikes": 64,
+        "author": "As Sunnah Skill Development",
+        "description": "This is an introduction to JavaScript for beginners.",
+        "date": "Jan 18, 2022",
+        "thumbnail": "https://img.youtube.com/vi/MDCp_rjGCrQ/0.jpg",
+        "tags": [
+          "Github"
+        ],
+        "link": "https://www.youtube.com/embed/MDCp_rjGCrQ"
+    },
+    {
+        "id": "5",
+        "title": "Introduction to CSS Flexbox",
+        "duration": "0:30:00",
+        "views": 1000,
+        "likes": 356,
+        "dislikes": 156,
+        "author": "As Sunnah Skill Development",
+        "description": "This is an introduction to JavaScript for beginners.",
+        "date": "Jan 18, 2022",
+        "thumbnail": "https://img.youtube.com/vi/epWTHqeMCMY/0.jpg",
+        "tags": [
+          "CSS"
+        ],
+        "link": "https://www.youtube.com/embed/epWTHqeMCMY"
+    }
+  ],
+  "tags": [
+    {
+      "id":"1",
+      "name": "javascript"
+    },
+    {
+      "id":"2",
+      "name": "CSS"
+    },
+    {
+      "id":"3",
+      "name": "Figma"
+    },
+    {
+      "id":"4",
+      "name": "React"
+    },
+    {
+      "id":"5",
+      "name": "Redux"
+    },
+
+    {
+      "id":"6",
+      "name": "Github"
+    }
+  ]
+}
